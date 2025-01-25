@@ -8,17 +8,6 @@ This repository contains a project focused on predicting stock prices using vari
 - Implementation of machine learning algorithms for stock price prediction
 - Model evaluation and performance comparison
 
-## Project Structure
-
-```
-Stock-Prediction-using-ML/
-├── data/               # Historical stock data
-├── notebooks/          # Jupyter notebooks for analysis and modeling
-├── models/             # Saved machine learning models
-├── src/                # Source code for data processing and modeling
-├── requirements.txt    # Python dependencies
-└── README.md           # Project overview (this file)
-```
 
 ## Requirements
 
@@ -50,12 +39,9 @@ pip install -r requirements.txt
 ## Models Used
 
 The project explores the following machine learning techniques:
-
 - Linear Regression
-- Decision Trees
-- Random Forest
-- Support Vector Machines (SVM)
-- Neural Networks (if applicable)
+- Data Processing
+- Neural Networks
 
 ## Results
 
